@@ -1,0 +1,1 @@
+{"name":"A70 Smart Clock","short_name":"A70 Clock","description":"Reloj de mesilla inteligente para Samsung Galaxy A70","start_url":"./","scope":"./","display":"standalone","orientation":"landscape","background_color":"#05070b","theme_color":"#05070b","icons":[{"src":"./icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]}
